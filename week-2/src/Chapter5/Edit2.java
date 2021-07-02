@@ -11,7 +11,7 @@ public class Edit2 {
  */
 	public static void main(String[] args) {
 		int intArray[];
-		String names[] = {"김매기","김공지","제스"};
+		String names[] = {"김매기","공","제스"};
 		
 		System.out.println("name1 :" + names[0]);
 		System.out.println("name2 :" + names[1]);
